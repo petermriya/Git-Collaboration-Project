@@ -1,1 +1,3 @@
 SELECT * FROM LAGandLEAD;
+
+CREATE PROCEDURE AS GetCustmersName
